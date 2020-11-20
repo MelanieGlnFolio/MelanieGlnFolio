@@ -1,6 +1,6 @@
-# Bonjour tout le monde 👋
+# Hi there 👋
 
-Bienvenue sur mon GitHub !
+Welcome on my GitHub !
 
 - 🔭 I’m currently studying at Digital Campus Nantes.
 - 🌱 I’m currently learning Development, Graphic Design and Web Marketing.
