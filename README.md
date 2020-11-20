@@ -1,9 +1,10 @@
-# Hi there 👋
+# Bonjour tout le monde ! 👋
+Je suis en pleine recherche de stage !
 
-Welcome to my GitHub !
+Bienvenue sur mon GitHub !
 
-- 🔭 I’m currently studying at Digital Campus Nantes.
-- 🌱 I’m currently learning Development, Graphic Design and Web Marketing.
+- 🔭 J'étudies à "Digital Campus", à Nantes.
+- 🌱 J'étudies le developpement web, design graphique et le Web Marketing.
 <!--👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
