@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome on my GitHub !
+Welcome to my GitHub !
 
 - 🔭 I’m currently studying at Digital Campus Nantes.
 - 🌱 I’m currently learning Development, Graphic Design and Web Marketing.
