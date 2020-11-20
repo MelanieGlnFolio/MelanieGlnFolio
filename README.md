@@ -11,3 +11,5 @@ Welcome to my GitHub !
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact: Chocolate lover's ahah
 - My [Linkedin](https://www.linkedin.com/in/m%C3%A9lanie-guillon-72aa391b8).
+
+<img width="50%" scr="Image cool.jpg">
