@@ -1,8 +1,6 @@
 # Bonjour tout le monde ! 👋
 Je suis en pleine recherche de stage !
 
-Bienvenue sur mon GitHub !
-
 - 🔭 J'étudies à "Digital Campus", à Nantes.
 - 🌱 J'étudies le developpement web, design graphique et le Web Marketing.
 <!--👯 I’m looking to collaborate on ...
