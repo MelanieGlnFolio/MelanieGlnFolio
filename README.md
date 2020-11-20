@@ -1,7 +1,6 @@
 # Bonjour tout le monde ! 👋
-Je suis en pleine recherche de stage !
+Je suis en pleine recherche de stage ! [Mon CV](https://github.com/MelanieGlnFolio/MelanieGlnFolio/raw/main/CV%20Me%CC%81lanie%20GUILLON%202020%20(2).pdf)
 
-[Mon CV](https://github.com/MelanieGlnFolio/MelanieGlnFolio/raw/main/CV%20Me%CC%81lanie%20GUILLON%202020%20(2).pdf)
 - 🔭 J'étudies à "Digital Campus", à Nantes.
 - 🌱 J'étudies le Développement web, le Design graphique et le Web marketing.
 <!--👯 I’m looking to collaborate on ...
