@@ -2,8 +2,6 @@
 
 Bienvenue sur mon GitHub !
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying at Digital Campus Nantes.
 - 🌱 I’m currently learning Development, Graphic Design and Web Marketing.
 - 👯 I’m looking to collaborate on ...
