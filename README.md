@@ -10,6 +10,6 @@ Je suis en pleine recherche de stage ! [Mon CV](https://github.com/MelanieGlnFol
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact: Chocolate lover's ahah
-- My [Linkedin](https://www.linkedin.com/in/m%C3%A9lanie-guillon-72aa391b8)
-<img width="30px" src="flaticon.com/svg/static/icons/svg/174/174857.svg"/>
+- <img width="30px" src="flaticon.com/svg/static/icons/svg/174/174857.svg"/> My [Linkedin](https://www.linkedin.com/in/m%C3%A9lanie-guillon-72aa391b8)
+
 <img width="30%" src="https://i.pinimg.com/564x/25/18/40/251840488e31bb22b019024fe5069c48.jpg">
